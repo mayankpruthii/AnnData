@@ -7,7 +7,7 @@ const home = (props) => (
             <img src='https://www.pixelstalk.net/wp-content/uploads/2016/11/Farming-Wallpaper-HD-Free-Download.jpg' alt='' className='FarmImg'/>
             <div className='centered'>
                 <h1>AnnData</h1>
-                <h4>Jadi Booti</h4>
+                
             </div>
         </div>
         <div className ={'Content'}>
