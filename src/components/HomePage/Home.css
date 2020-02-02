@@ -1,0 +1,69 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+    /* div {
+        background-image: url('../../Assets/FarmingWallpaper.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+    } */
+
+.FarmImg {
+    max-height: 100vh;
+    width: 98.9vw;
+    object-fit: fill;
+    overflow-x: auto;
+}
+.centered h1 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 75px;
+    font-weight: 500;
+    color:white;
+    text-shadow: #000 0px 0px 3px,   #000 0px 0px 3px,   #000 0px 0px 3px,
+             #000 0px 0px 3px,   #000 0px 0px 3px,   #000 0px 0px 3px;
+}
+
+.centered h4 {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-weight: 500;
+    color:white;
+    text-shadow: #000 0px 0px 3px,   #000 0px 0px 3px,   #000 0px 0px 3px,
+             #000 0px 0px 3px,   #000 0px 0px 3px,   #000 0px 0px 3px;
+}
+
+.loginButton {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: green;
+    font-weight: 500;
+    font-size: 30px;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    width: 500px;
+    margin: 50px;
+}
+
+.loginButton:hover {
+    align-items: center;
+    background-color: white;
+    font-weight: 300;
+    color: green;
+    box-shadow: 0px;
+}
+
+.Content {
+    text-align: left;
+    padding: 30px;
+    margin: 10px;
+}

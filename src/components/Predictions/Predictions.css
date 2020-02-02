@@ -1,0 +1,97 @@
+.EnterTheValues {
+    width: 400px;
+    padding: 20px;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background:white;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    color:black;
+    border: 2px black;
+}
+.Input:focus{
+    border-color: rgb(46, 129, 46);
+    width:320px;
+}
+
+.Button:hover {
+    background-color: #2ecc71;
+    color: white;
+}
+
+.Label {
+   
+        color: black;
+        font-weight: 100;
+    font-size: 15px;
+}
+
+.Input{
+    border: 0;
+    align-items: center;
+    background: none;
+    margin: 5px;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 10px;
+    width: 300px;
+    outline: none;
+    color: black;
+    border-radius: 24px;
+    transition: 0.25s;
+
+} 
+
+.Button {
+    border: 0;
+    background: none;
+    margin: 10px;
+    text-align: center;
+    border: 2px solid #2ecc71;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: black;
+    border-radius: 24px;
+    transition: 0.25s;
+}
+
+
+.WelcomeTag {
+    margin: 60px;
+    font-size: 30px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: white;
+    height: 100vh;
+    text-align: center;
+    color: black; 
+    border: 2px black;
+}
+
+.Answer {
+    color: black;
+    font-size: 15px;
+}
+
+.Welcome {
+    position: absolute;
+    margin-top: 20px;
+    width: 100%;
+    box-align: center;
+}
+
+.Answer {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    color: black;
+}

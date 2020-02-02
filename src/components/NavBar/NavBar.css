@@ -1,0 +1,25 @@
+.Navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #dddddd;
+    border: 5px black;
+}
+  
+.Navbar li {
+    float: left;
+  }
+  
+.Navbar li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+.Navbar li a:hover {
+    background-color: whitesmoke;
+    color: black;
+  }
