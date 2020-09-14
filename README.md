@@ -1,1 +1,1 @@
-hosted at www.anndataa.herokuapp.com
+hosted at https://anndataa.herokuapp.com
